@@ -1,0 +1,6 @@
+[gd_scene format=3 uid="uid://cmrk6rhennjjq"]
+
+[ext_resource type="Script" uid="uid://d1ny63tjbhtqx" path="res://Scripts/Bossfight.gd" id="1_pdkig"]
+
+[node name="BossFight" type="Node" unique_id=706123413]
+script = ExtResource("1_pdkig")
